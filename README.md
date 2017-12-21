@@ -1,4 +1,4 @@
-vrt-sheet-for-dia
-=================
+vrt-graphml-for-yed
+===================
 
-VRT Sheet For Dia. Based on [VRT extension](http://www.vrt.com.au/downloads/vrt-network-equipment) for LibreOffice Draw.
+VRT GraphML palettes for yEd. Based on [VRT extension](http://www.vrt.com.au/downloads/vrt-network-equipment) for LibreOffice Draw.
